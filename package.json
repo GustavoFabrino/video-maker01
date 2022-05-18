@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GustavoFabrino/video-maker01/issues"
   },
-  "homepage": "https://github.com/GustavoFabrino/video-maker01#readme"
+  "homepage": "https://github.com/GustavoFabrino/video-maker01#readme",
+  "dependencies": {
+    "readline-sync": "github:anseki/readline-sync"
+  }
 }
